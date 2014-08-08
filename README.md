@@ -2,8 +2,8 @@ samsung-laptop-dkms
 ===
 This is an updated samsung-laptop kernel module which fixes the keyboard 
 backlight of Samsung Series7-Ultra (NP740u3e/NP730u3e) laptop. It should 
-work with linux kernels 3.9 and newer, on distributions which support 
-dkms.
+work with linux kernels between 3.9 and 3.16 (the changes are in post 3.16 
+kernels), on distributions which support dkms. 
 
 Installation
 === 
